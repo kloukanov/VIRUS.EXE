@@ -15,4 +15,7 @@ The first image is a template on how the UI looks when it is first open to the u
 The load images button loads all the image (receipt) in a given folder that our program reads from. <br>
 The start button starts the actual program where it reads the total spending on a receipt. <br>
 The view image button allows the user to view any images that is loaded. <br>
+Inside the grid where you see column A, the name of column A is called image. To showcase which image we have selected. <br>
+In column B, it says GT. GT stands for Ground Truth value. We manually have to enter the actual value inside the program to match each image that is loaded. <br>
+In column C, it says ALG, which is short for algorithm. This is the actual tesseract part where the program reads the receipt and output the total spending. With this value, we can determine if tesseract is right or wrong or how far off it is. <br>
 
