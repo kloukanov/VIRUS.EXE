@@ -9,5 +9,6 @@ The purpose of this project was better understand optical character recognition 
 With this software, it can assist in reusing the amount of time taken to do this making the software identify the amount spend by reading it from a simple image of a receipt and recording it for the user. 
 
 ## User Inferface of the Application
-We used wxWidgets that allows us to simply the way Visual Studio does GUI with C++.
+We used wxWidgets that allows us to simply the way Visual Studio does GUI with C++. <br>
 The first image is a template on how the UI looks when it is first open to the user. 
+![alt text](https://github.com/kloukanov/VIRUS.EXE/blob/master/images/1.jpg)
