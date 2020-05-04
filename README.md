@@ -11,4 +11,8 @@ With this software, it can assist in reusing the amount of time taken to do this
 ## User Inferface of the Application
 We used wxWidgets that allows us to simply the way Visual Studio does GUI with C++. <br>
 The first image is a template on how the UI looks when it is first open to the user. 
-![alt text](https://github.com/kloukanov/VIRUS.EXE/blob/master/images/1.jpg)
+![alt text](https://github.com/kloukanov/VIRUS.EXE/blob/master/images/1.jpg) <br>
+The load images button loads all the image (receipt) in a given folder that our program reads from. <br>
+The start button starts the actual program where it reads the total spending on a receipt. <br>
+The view image button allows the user to view any images that is loaded. <br>
+
