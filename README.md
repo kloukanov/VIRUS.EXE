@@ -19,3 +19,5 @@ Inside the grid where you see column A, the name of column A is called image. To
 In column B, it says GT. GT stands for Ground Truth value. We manually have to enter the actual value inside the program to match each image that is loaded. <br>
 In column C, it says ALG, which is short for algorithm. This is the actual tesseract part where the program reads the receipt and output the total spending. With this value, we can determine if tesseract is right or wrong or how far off it is. <br>
 
+![alt text](https://github.com/kloukanov/VIRUS.EXE/blob/master/images/2.jpg) <br>
+This picture showcase after pressing "load images" button and pressing "view image" button for image2.jpg. <br> 
