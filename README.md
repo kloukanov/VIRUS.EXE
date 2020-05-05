@@ -20,4 +20,8 @@ In column B, it says GT. GT stands for Ground Truth value. We manually have to e
 In column C, it says ALG, which is short for algorithm. This is the actual tesseract part where the program reads the receipt and output the total spending. With this value, we can determine if tesseract is right or wrong or how far off it is. <br>
 
 ![alt text](https://github.com/kloukanov/VIRUS.EXE/blob/master/images/2.jpg) <br>
-This picture showcase after pressing "load images" button and pressing "view image" button for image2.jpg. <br> 
+This picture showcase after pressing "load images" button and pressing "view image" button for image10.jpg. <br> 
+As we can see the total spending on the shoppers drug mart receipt is $1.68. We preloaded the program so that when we press start, the program already knows the ground truth value is $1.68. Now we want to see if Tesseract could read the receipt total spending value. <br>
+
+![alt text](https://github.com/kloukanov/VIRUS.EXE/blob/master/images/3.jpg) <br>
+After pressing the "Start" button, we are able to see what our application is able to spit out. As we can see, the ground truth value and the algorithm value is matching. <br>
